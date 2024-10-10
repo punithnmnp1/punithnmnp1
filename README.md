@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @punithnmnp1
-- 👀 I’m interested in building aplications
+- 👋 Hi, I’m Punith.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on OpenCv
 - 📫linlkedIn: https://www.linkedin.com/messaging/thread/2-M2EzMjE1MGItNWE1ZS00YWFjLTgyMDMtYjhlYjE3YTYxNjA5XzAxMA==/
