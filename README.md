@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Punith.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning WPF.
-- 💞️ I’m looking to collaborate on C# and .Net Technolgies.
+- 💞️ I’m looking to collaborate on C# and .Net Technologies.
 - 🗃️ Portfolio:https://punithnmnp1.github.io/Portfolio/
 - 📫linlkedIn: https://www.linkedin.com/messaging/thread/2-M2EzMjE1MGItNWE1ZS00YWFjLTgyMDMtYjhlYjE3YTYxNjA5XzAxMA==/
 - 📫Gmail:punithnmnp@gmail.com
